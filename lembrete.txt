@@ -1,0 +1,3 @@
+Rodar a API fake JSON
+
+json-server --watch backend/videos.json
