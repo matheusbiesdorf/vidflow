@@ -1,3 +1,7 @@
-Rodar a API fake JSON
+>>> Rodar a API fake JSON
 
 json-server --watch backend/videos.json
+
+>>> Dentro da pasta backend podemos digitar apenas
+
+json-server --watch videos.json
